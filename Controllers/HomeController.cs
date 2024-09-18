@@ -18,7 +18,7 @@ namespace InfluxDBTest.Controllers
         {
             var results = await service.QueryAsync(async query =>
             {
-                var flux = "from(bucket:\"bucket name here\") |> range(start: 0)";
+                var flux = "from(bucket:\"Bucket name here \") |> range(start: 0)";
                 var tables = await query.QueryAsync(flux, "org name here");
                 return tables.SelectMany(table =>
                     table.Records.Select(record =>

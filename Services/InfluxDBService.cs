@@ -16,14 +16,14 @@ namespace InfluxDBTest.Services
 
         public void Write(Action<WriteApi> action)
         {
-            using var client = InfluxDBClientFactory.Create("http://192.168.1.8:8086", _token);
+            using var client = InfluxDBClientFactory.Create("url here", _token);
             using var write = client.GetWriteApi();
             action(write);
         }
 
         public async Task<T> QueryAsync<T>(Func<QueryApi, Task<T>> action)
         {
-            using var client = InfluxDBClientFactory.Create("http://192.168.1.8:8086", _token);
+            using var client = InfluxDBClientFactory.Create("url here", _token);
             var query = client.GetQueryApi();
             return await action(query);
         }
