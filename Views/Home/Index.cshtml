@@ -1,0 +1,12 @@
+﻿@model IEnumerable<InfluxDBTest.Models.CounterModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<ul>
+    @foreach (var record in Model)
+    {
+        <li>@record.DisplayText</li>
+    }
+</ul>
