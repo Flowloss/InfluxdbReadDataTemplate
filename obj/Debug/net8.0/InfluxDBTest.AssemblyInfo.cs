@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InfluxDBTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5c9a2895d03081913afdb1f5da891d3e34f12c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8ad99ca53dd5cfc3f77bafecd42ced3a59a56e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("InfluxDBTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InfluxDBTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

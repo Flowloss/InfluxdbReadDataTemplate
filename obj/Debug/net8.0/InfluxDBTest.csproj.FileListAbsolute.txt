@@ -43,3 +43,5 @@ C:\Visual Studio Project\InfluxDBTest\obj\Debug\net8.0\refint\InfluxDBTest.dll
 C:\Visual Studio Project\InfluxDBTest\obj\Debug\net8.0\InfluxDBTest.pdb
 C:\Visual Studio Project\InfluxDBTest\obj\Debug\net8.0\InfluxDBTest.genruntimeconfig.cache
 C:\Visual Studio Project\InfluxDBTest\obj\Debug\net8.0\ref\InfluxDBTest.dll
+C:\Visual Studio Project\InfluxDBTest\obj\Debug\net8.0\InfluxDBTest.sourcelink.json
+C:\Visual Studio Project\InfluxDBTest\bin\Debug\net8.0\Fleck.dll

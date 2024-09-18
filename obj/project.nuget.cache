@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OrehlHP7h5mkw6MOKJfysVr+t0WAU8jUK4mYwLyBZa1oeirANZhR1D2jKSZmrooe+NE2WUkCqEANpPwXGNfxzw==",
+  "dgSpecHash": "p/rQElKGnTnStmExPZgNhvn/xDzYaVXzxth4blIxvkkQ1Uux/dJwWn6cBdnDp+HZjxjpWteqsZZzeKofkSWz3w==",
   "success": true,
   "projectFilePath": "C:\\Visual Studio Project\\InfluxDBTest\\InfluxDBTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kolip\\.nuget\\packages\\coravel\\5.0.4\\coravel.5.0.4.nupkg.sha512",
     "C:\\Users\\kolip\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\kolip\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512",
     "C:\\Users\\kolip\\.nuget\\packages\\influxdb.client\\4.18.0\\influxdb.client.4.18.0.nupkg.sha512",
     "C:\\Users\\kolip\\.nuget\\packages\\influxdb.client.core\\4.18.0\\influxdb.client.core.4.18.0.nupkg.sha512",
     "C:\\Users\\kolip\\.nuget\\packages\\jsonsubtypes\\2.0.1\\jsonsubtypes.2.0.1.nupkg.sha512",
